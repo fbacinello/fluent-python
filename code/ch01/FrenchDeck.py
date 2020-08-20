@@ -27,6 +27,8 @@ from random import choice
 deck = FrenchDeck()
 choice(deck)
 
+# metodo para rankear las cartas
+
 suit_values = dict(spades=3, hearts=2, diamonds=1, clubs=0)
 
 
